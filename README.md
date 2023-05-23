@@ -17,3 +17,5 @@
 * comando git remote (para saber o que temos remoto)
 
 * comando git push origin main (comando para realizar o sincronismo das modificações)
+
+* comando git pull
