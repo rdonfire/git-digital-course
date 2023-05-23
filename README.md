@@ -18,4 +18,4 @@
 
 * comando git push origin main (comando para realizar o sincronismo das modificações)
 
-* comando git pull
+* comando git pull (puxar as alterações realizadas externas)
