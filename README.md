@@ -9,3 +9,8 @@
 * comando git commit -m "mensagem para ir com o commit (visto no git log)"
 
 * teste
+
+* comando git log - exibe o log das modificações do arquivo
+
+* comando git restore (ou git restore --staged ) - restora a ultima alteração realizada.
+
