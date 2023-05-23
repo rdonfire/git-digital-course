@@ -7,3 +7,5 @@
 * comando git diff (ou git dif --staged ) - mosta o que foi alterado.
 
 * comando git commit -m "mensagem para ir com o commit (visto no git log)"
+
+* teste
