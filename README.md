@@ -21,3 +21,8 @@
 * comando git pull (puxar as alterações realizadas externas)
 
 * comando git fetch + git diff origin/main (um depois o outro, verificar o que há pendente para descer pro codigo)
+
+* comando git branch - serve para criar outra branch para poder programar juntos, mas de forma separada.
+
+* comando git checkout main - para trocar de branch
+
