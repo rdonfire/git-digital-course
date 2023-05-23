@@ -20,4 +20,4 @@
 
 * comando git pull (puxar as alterações realizadas externas)
 
-* comando git fetch (verificar antes o que vai vir para o meu codigo)
+* comando git fetch (verificar antes o que vai vir para o meu codigo(git diff origin/main) - exibe o powershell)
