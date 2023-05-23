@@ -18,4 +18,6 @@
 
 * comando git push origin main (comando para realizar o sincronismo das modificações)
 
-* comndo git pull (puxar as alterações realizadas externas)
+* comando git pull (puxar as alterações realizadas externas)
+
+* comando git fetch + git diff origin/main (um depois o outro, verificar o que há pendente para descer pro codigo)
