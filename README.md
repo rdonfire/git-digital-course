@@ -18,6 +18,4 @@
 
 * comando git push origin main (comando para realizar o sincronismo das modificações)
 
-* comando git pull (puxar as alterações realizadas externas)
-
-* comando git fetch (verificar antes o que vai vir para o meu codigo(git diff origin/main) - exibe o powershell)
+* comndo git pull (puxar as alterações realizadas externas)
