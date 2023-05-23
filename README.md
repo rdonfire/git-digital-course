@@ -14,3 +14,6 @@
 
 * comando git restore (ou git restore --staged ) - restora a ultima alteração realizada.
 
+* comando git remote (para saber o que temos remoto)
+
+* comando git push origin main (comando para realizar o sincronismo das modificações)
